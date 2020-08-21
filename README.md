@@ -1,0 +1,2 @@
+# ObsidianPack
+For ObsidianPack Modpack
